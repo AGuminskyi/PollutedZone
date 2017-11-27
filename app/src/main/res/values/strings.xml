@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PollutedZone</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="input_company_name">Input company name</string>
+    <string name="input_company_address">Input company address</string>
+    <string name="take_location">Take your location</string>
+    <string name="add_company">Add company</string>
+
+</resources>
